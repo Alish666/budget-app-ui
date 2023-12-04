@@ -1,3 +1,5 @@
 # kyla_budget_ui
 
-[https://youtube.com/shorts/z5OmiFbyMY8?feature=share](https://youtube.com/shorts/yu5eg7MP3bM?feature=share)https://youtube.com/shorts/yu5eg7MP3bM?feature=share
+
+https://github.com/Alish666/budget-app-ui/assets/71791232/d81fe297-6b2e-4d31-a1d5-1abe99001ef0
+
