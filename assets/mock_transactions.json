@@ -1,0 +1,89 @@
+{
+    "data": [
+        {
+            "id": "IJ435908GJMV4598",
+            "amount": 10.95,
+            "vendorLabel": "Billy's Bakery",
+            "category": "cafe",
+            "createdAt": "2023-11-29T23:15:30.000Z",
+            "address": {
+                "street": "75 Franklin St.",
+                "city": "New York",
+                "country": "USA",
+                "suite": "NY",
+                "zipcode": "10013"
+            }
+        },
+        {
+            "id": "IJ43590FL39CA4Y1",
+            "amount": 265,
+            "vendorLabel": "Walmart",
+            "category": "shop",
+            "createdAt": "2023-11-29T23:15:42.000Z",
+            "address": {
+                "street": "221 Baker St.",
+                "city": "London",
+                "country": "UK",
+                "suite": "LN",
+                "zipcode": "09856"
+            }
+        },
+        {
+            "id": "IJ435920DHWEF535",
+            "amount": 52.39,
+            "vendorLabel": "Candy's",
+            "category": "zoo",
+            "createdAt": "2023-11-29T23:16:11.000Z",
+            "address": {
+                "street": "17 Favoree St.",
+                "city": "Brussels",
+                "country": "Belgium",
+                "suite": "BR",
+                "zipcode": "30850"
+            }
+        },
+        {
+            "id": "IJ435920DJERTT4090",
+            "amount": 870,
+            "vendorLabel": "Rauza",
+            "category": "drugstore",
+            "createdAt": "2023-11-30T09:02:42.000Z",
+            "address": {
+                "street": "95 Makatayev St.",
+                "city": "Almaty",
+                "country": "Kazakhstan",
+                "suite": "ALA",
+                "zipcode": "050030"
+            }
+        },
+        {
+            "id": "IJ43592059FK340CBMS",
+            "amount": 12,
+            "vendorLabel": "Yandex Go",
+            "category": "taxi",
+            "createdAt": "2023-11-30T09:02:42.000Z",
+            "address": {
+                "street": "206 Al-Farabi St.",
+                "city": "Almaty",
+                "country": "Kazakhstan",
+                "suite": "ALA",
+                "zipcode": "050040"
+            }
+        },
+        {
+            "id": "IJ4359204590FJKDG3995",
+            "amount": 340,
+            "vendorLabel": "Snappy Techs",
+            "category": "other",
+            "createdAt": "2023-11-30T18:00:00.000Z",
+            "address": {
+                "street": "428 Rideau St.",
+                "city": "Ottawa",
+                "country": "Canada",
+                "suite": "ON",
+                "zipcode": "K1N 5Z1"
+            }
+        }
+    ],
+    "hint": 6
+}
